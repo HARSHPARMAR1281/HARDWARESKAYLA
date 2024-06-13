@@ -1,0 +1,23 @@
+body{
+    font-size: medium;
+    font-weight: bolder;
+    font-style: italic;
+    background-image: url(https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: round;
+    background-attachment: scroll;
+    background-size: contain;
+
+}
+head{
+    border: 20px red;
+    font-style: oblique;
+    color: #22e3ed;
+
+    background-color: rgb(100, 200,255);
+
+}
+
+h1{
+    color: red;
+    border: 22px lightgreen;
+}
